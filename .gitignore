@@ -1,0 +1,59 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+manimPipeline/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración locales
+*.env
+*.DS_Store
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Datos y resultados temporales
+data/
+datasets/
+*.csv
+*.json
+*.pkl
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Modelos pesados y checkpoints
+models/
+checkpoints/
+outputs/
+runs/
+experiments/
+
+# Notebooks con outputs pesados
+.ipynb_checkpoints/
+
+# Archivos generados por Jupyter o Colab
+*.ipynb_convert.json
+
+# Archivos de compilación y caché
+build/
+dist/
+*.egg-info/
+.eggs/
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
