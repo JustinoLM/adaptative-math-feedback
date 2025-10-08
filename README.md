@@ -171,9 +171,9 @@ Coloca tu dataset en `data/problems/`. Formato esperado:
 ## 📝 Próximos Pasos
 
 1. ✅ Setup del repositorio
-2. 🔄 Implementar Fase 1: Análisis de Error
-3. ⏳ Implementar Fase 2: Adaptación de Contenido
-4. ⏳ Implementar Fase 3: Generación de Guión
+2. ✅ Implementar Fase 1: Análisis de Error
+3. ✅ Implementar Fase 2: Adaptación de Contenido
+4. 🔄 Implementar Fase 3: Generación de Guión
 5. ⏳ Implementar Fase 4: Producción Visual
 
 
